@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my GitHub profile ✨
 
-<!--
-**ReXulEc/ReXulEc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I am a young developer from Turkey. I am coder, editor
+and designer. I try to develop games in my free time.
+Im also <b>web developer</b> and UI/UX designer. I have
+been using Adobe Photoshop, after effect and Illustrator
+for 3 years.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a website..
+- 🌱 I’m currently learning Vue Js.
+- ✨ I want to make a plugin for PreMid.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Mert
