@@ -13,13 +13,13 @@ for 3 years.
 ### Socials
 
 
-[<img align="left" alt="www.rexulec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rexulec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ReXulEc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mrethemert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
 
-[website]: https://rexulec.com
+[website]: http://rexulec.com
 [twitter]: https://twitter.com/rexulec
 [instagram]: https://instagram.com/merthemret
