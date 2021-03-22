@@ -10,7 +10,10 @@ for 3 years.
 - 🌱 I’m currently learning Vue Js.
 - ✨ I want to make a plugin for PreMid.
 
-### Socials
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### Socials!
 
 
 [<img align="left" alt="rexulec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
