@@ -12,6 +12,7 @@ for 3 years.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials!
 
