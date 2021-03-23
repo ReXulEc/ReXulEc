@@ -1,5 +1,9 @@
 ### Welcome to my GitHub profile ✨
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
+
 Hi 👋 My name is Mert. I am a young developer from Turkey.
 I am coder, editor and designer. I try to develop games in
 my free time. Im also <b>web developer</b> and UI/UX designer.
@@ -9,10 +13,6 @@ for 3 years.
 - 🔭 I’m currently working on a website..
 - 🌱 I’m currently learning Vue Js.
 - ✨ I want to make a plugin for PreMid.
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials!
 
