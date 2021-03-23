@@ -14,6 +14,10 @@ for 3 years.
 - 🌱 I’m currently learning Vue Js.
 - ✨ I want to make a plugin for PreMid.
 
+You can follow me on these platforms to get more information about me and follow news about my projects!
+
+<a href="https://twitter.com/rexulec" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> <a href="https://steamcommunity.com/id/rexulec" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a> <a href="https://t.me/rexulec" target="_blank"><img align="center" alt="Telegram" src="https://img.shields.io/badge/-Telegram-7b9ae0?style=flat-square&logo=telegram&logoColor=white" /></a> <a href="https://instagram.com/itjustmert" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-instagram-D037A6?style=flat-square&logo=instagram&logoColor=white" /></a>
+
 ### Socials!
 
 
