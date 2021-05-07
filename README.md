@@ -1,14 +1,14 @@
-### Welcome to my GitHub profile ✨
+### Welcome to my Github Profile ✨
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
 
 Hi 👋 My name is Mert. I am a young developer from Turkey.
-I am coder, editor and designer. I try to develop games in
-my free time. Im also <b>web developer</b> and UI/UX designer.
+I am student, developer and designer. I try to code python bots
+in my free time. I am also a <b>web developer</b> and UI/UX designer.
 I have been using Adobe Photoshop, after effect and Illustrator
-for 3 years.
+for 3 years.I can code python, javascript, html, css.
 
 - 🔭 I’m currently working on a website..
 - 🌱 I’m currently learning Vue Js.
