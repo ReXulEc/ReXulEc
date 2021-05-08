@@ -11,7 +11,7 @@ I have been using Adobe Photoshop, after effect and Illustrator
 for 3 years.I can code python, javascript, html, css.
 
 - 🔭 I’m currently working on a website..
-- 🌱 I’m currently learning Vue Js.
+- 🌱 I’m currently learning Python.
 - ✨ I want to make a plugin for PreMid.
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
