@@ -30,4 +30,4 @@ You can follow me on these platforms to get more information about me and follow
 
 [website]: http://rexulec.com
 [twitter]: https://twitter.com/rexulec
-[instagram]: https://instagram.com/merthemret
+[instagram]: https://instagram.com/itjustmert
