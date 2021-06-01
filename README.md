@@ -1,5 +1,37 @@
 ### Welcome to my Github Profile ✨
 
+```javascript
+const rexulec = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Html", "Css"],
+    askMeAbout: ["python", "back-end", "design"],
+    technologies: {
+        frontEnd: {
+            js: ["Nuxt"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "SuiteScript", "discord.js"],
+            python: ["flask", "discord.py"]
+        },
+        apps: {
+          adobe: ["after effect", "photoshop", "illustrator"],
+          3d: {
+            ["blender", "bricsCAD", "c4d"],
+          },
+          game: {
+            ["game maker studio", "unity", "unreal engine"],
+          },
+          4coding: {
+            ideApps: {
+              ["visual studio code", "jetbrains", "replit"]
+            },
+          }
+        },
+        misc: ["selenium", "open-cv"]
+    },
+};
+```
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
@@ -12,7 +44,7 @@ for 3 years.I can code <b>Python, Javascript, Html, Css</b> well.
 
 - 🔭 I’m currently working on a website..
 - 🌱 I’m currently learning Python.
-- ✨ I want to make a plugin for PreMid.
+- ✨ I want to make a guard bot with discord.js .
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
