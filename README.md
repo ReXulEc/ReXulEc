@@ -5,10 +5,10 @@
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
 
 Hi 👋 My name is Mert. I am a young developer from Turkey.
-I am student, developer and designer. I try to code python bots
+I am student, developer and designer. I try to code <b>python apps</b>
 in my free time. I am also a <b>web developer</b> and UI/UX designer.
-I have been using Adobe Photoshop, after effect and Illustrator
-for 3 years.I can code python, javascript, html, css.
+I have been using <b>Adobe Photoshop, After Effect</b> and <b>Illustrator</b>
+for 3 years.I can code <b>Python, Javascript, Html, Css</b> well.
 
 - 🔭 I’m currently working on a website..
 - 🌱 I’m currently learning Python.
@@ -23,7 +23,7 @@ You can follow me on these platforms to get more information about me and follow
 
 [<img align="left" alt="rexulec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ReXulEc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mrethemert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="itjustmert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
