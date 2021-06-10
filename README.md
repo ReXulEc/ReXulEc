@@ -28,7 +28,10 @@ const rexulec = {
             },
           }
         },
-        misc: ["selenium", "open-cv"]
+        misc: ["selenium", "open-cv"]}
+        contactMe: {
+            "npx rexulec"
+        }
     },
 };
 ```
