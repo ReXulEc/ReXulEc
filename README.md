@@ -1,5 +1,8 @@
 ### Welcome to my Github Profile ✨
 
+<details>
+  <summary style="font-weight: bold; font-size: 18px">[Click Me For More Information]</summary>
+    
 ```javascript
 const rexulec = {
     pronouns: "He" | "Him",
@@ -33,6 +36,9 @@ const rexulec = {
     },
 };
 ```
+
+</details>
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
