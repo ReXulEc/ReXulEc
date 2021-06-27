@@ -36,6 +36,7 @@ const rexulec = {
     },
 };
 ```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/709376748206293002)](https://discord.com/users/709376748206293002)
 
 </details>
 
