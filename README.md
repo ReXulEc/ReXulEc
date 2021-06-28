@@ -38,7 +38,6 @@ const rexulec = {
 ```
 </details>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
 <img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/709376748206293002" src="https://lanyard-profile-readme.vercel.app/api/709376748206293002">
@@ -49,9 +48,9 @@ in my free time. I am also a <b>web developer</b> and UI/UX designer.
 I have been using <b>Adobe Photoshop, After Effect</b> and <b>Illustrator</b>
 for 3 years.I can code <b>Python, Javascript, Html, Css</b> well.
 
-- 🔭 I’m currently working on a website..
+- 🔭 I’m currently working on exams..
 - 🌱 I’m currently learning Python.
-- ✨ I want to make a guard bot with discord.js .
+- ✨ I want to make Virutal Webcam with Python.
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
