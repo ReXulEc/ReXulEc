@@ -36,13 +36,12 @@ const rexulec = {
     },
 };
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/709376748206293002)](https://discord.com/users/709376748206293002)
-
 </details>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rexulec&hide=contribs,prs&theme=dracula">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
+<img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/709376748206293002" src="https://lanyard-profile-readme.vercel.app/api/709376748206293002">
 
 Hi 👋 My name is Mert. I am a young developer from Turkey.
 I am student, developer and designer. I try to code <b>python apps</b>
@@ -64,9 +63,6 @@ You can follow me on these platforms to get more information about me and follow
 [<img align="left" alt="rexulec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ReXulEc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="itjustmert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
 
 [website]: http://rexulec.com
 [twitter]: https://twitter.com/rexulec
