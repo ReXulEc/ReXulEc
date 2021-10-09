@@ -6,16 +6,15 @@
 ```javascript
 const rexulec = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Html", "Css"],
-    askMeAbout: ["python", "back-end", "design"],
+    code: ["Javascript", "Vue", "Html", "Css"],
+    askMeAbout: ["Node.js", "front-end", "design"],
     technologies: {
         frontEnd: {
-            js: ["Nuxt"],
-            css: ["materialize", "bootstrap"]
+            js: ["Vue", "Nuxt", "React"],
+            css: ["tailwindcss", "windicss", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "SuiteScript", "discord.js"],
-            python: ["flask", "discord.py"]
+            js: ["Node", "Canvas", "Discord.js"]
         },
         apps: {
           adobe: ["after effect", "photoshop", "illustrator"],
@@ -56,8 +55,8 @@ You can follow me on these platforms to get more information about me and follow
 
 <a href="https://twitter.com/rexulec" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> <a href="https://steamcommunity.com/id/rexulec" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a> <a href="https://t.me/rexulec" target="_blank"><img align="center" alt="Telegram" src="https://img.shields.io/badge/-Telegram-7b9ae0?style=flat-square&logo=telegram&logoColor=white" /></a> <a href="https://instagram.com/itjustmert" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-instagram-D037A6?style=flat-square&logo=instagram&logoColor=white" /></a>
 
-<img src="https://count.getloli.com/get/@rexulec?theme=moebooru" alt="Furtsy" />
+<img src="https://count.getloli.com/get/@rexulec?theme=moebooru" alt="ReXulEc" />
 
 [website]: http://rexulec.com
 [twitter]: https://twitter.com/rexulec
-[instagram]: https://instagram.com/itjustmert
+[instagram]: https://instagram.com/rexulec
