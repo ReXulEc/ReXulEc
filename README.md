@@ -47,9 +47,9 @@ in my free time. I am also a <b>web developer</b> and UI/UX designer.
 I have been using <b>Adobe Photoshop, After Effect</b> and <b>Illustrator</b>
 for 3 years.I can code <b>Python, Javascript, Html, Css</b> well.
 
-- 🔭 I’m currently working on a api..
-- 🌱 I’m currently learning Javascript.
-- ✨ I want to make -.
+- 🔭 I’m currently working on a School Project..
+- 🌱 I’m currently learning React.
+- ✨ I want to make A Portfolio Website.
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
