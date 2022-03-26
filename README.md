@@ -4,7 +4,7 @@
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
 <img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/921055019334258758" src="https://lanyard-profile-readme.vercel.app/api/921055019334258758">
 
-Hi 👋 My name is Mert (<i>aka rexulec</i>). I am 15-years-old dev and student from Turkey.
+Hi 👋 My name is Mert (<i>aka rexulec</i>). I am a developer and student from Turkey.
 I can make sites, servers and programs for you and your brand <i>with using nodejs, vue, react, ejs, windicss and tailwind</i>.
 You can find my resume <a href="https://rexulec.com/resume">right there!</a>
 
