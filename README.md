@@ -8,7 +8,7 @@
   
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript       80 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   41.38 %
 Svelte           36 hrs 37 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
 TypeScript       22 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
