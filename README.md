@@ -16,10 +16,3 @@ Vue.js           14 hrs          █▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<!--
-I inspired from https://github.com/noirrs
-You can check his page too!
-
-Mert Doğu - Front-end Developer - mert.day
---> 
